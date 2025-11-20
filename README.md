@@ -1,4 +1,6 @@
-# 📱 ProfileApp — Aplikasi Profil dengan Jetpack Compose
+# 📱 ProfileApp — Aplikasi Profil Kelompok 1
+
+Ini adalah tugas Pengembangan Apk Mobile ITB Nobel Indonesia
 
 ## 👨‍💻 Dibuat oleh
 
