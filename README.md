@@ -1,5 +1,14 @@
 # 📱 ProfileApp — Aplikasi Profil dengan Jetpack Compose
 
+## 👨‍💻 Dibuat oleh
+
+**Kelompok 1** — Sistem dan Teknologi Informasi
+
+* Athaillah Aufa Badila
+* Arya Ardy
+* Muh. Hikmawan
+* Syakila Asisyaikarani
+
 ---
 
 ## 🚀 Fitur Utama
@@ -95,12 +104,3 @@ setContent {
 4. Jalankan aplikasi di emulator atau perangkat fisik
 
 ---
-
-## 👨‍💻 Dibuat oleh
-
-**Kelompok 1** — Sistem dan Teknologi Informasi
-
-* Athaillah Aufa Badila
-* Arya Ardy
-* Muh. Hikmawan
-* Syakila Asisyaikarani
