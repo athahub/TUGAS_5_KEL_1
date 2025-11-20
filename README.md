@@ -1,7 +1,5 @@
 # 📱 ProfileApp — Aplikasi Profil dengan Jetpack Compose
 
-ProfileApp adalah aplikasi sederhana namun elegan yang dibuat menggunakan **Jetpack Compose**. Aplikasi ini menampilkan beberapa fitur utama seperti **Profil**, **Skills**, **Kontak**, dan **Biodata Kelompok**. Semua tampilan sudah dirancang menggunakan Material Design 3.
-
 ---
 
 ## 🚀 Fitur Utama
@@ -102,21 +100,7 @@ setContent {
 
 **Kelompok 1** — Sistem dan Teknologi Informasi
 
-* Atha
+* Athaillah Aufa Badila
 * Arya Ardy
-* Hikmawan
-* Syakila
-
----
-
-## ⭐ Catatan Tambahan
-
-Aplikasi ini dapat dikembangkan lebih lanjut untuk:
-
-* Menambah foto asli setiap anggota
-* Integrasi database (Room / API)
-* Menambah fitur portfolio atau project showcase
-
----
-
-Jika ingin saya buatkan **versi English**, **versi minimalis**, atau **versi yang bisa langsung dipakai untuk GitHub**, cukup bilang saja! ✨
+* Muh. Hikmawan
+* Syakila Asisyaikarani
